@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    margin-top: 100px;
+}
+.catalogo-text{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.img-container{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+}
+.catalogo-img{
+    border-radius: 30px;
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+.catalog{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
