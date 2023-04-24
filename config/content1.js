@@ -4,7 +4,7 @@ export default {
             inicio: "index.html",
             servicios: "servicios/index.html",
             soporte: "soporte/index.html",
-            Img: "/images/logoWhite.png",
+            Img: "./images/logoWhite.png",
         }],
         body: [{
             title: "Bienvenid@ Camper",
